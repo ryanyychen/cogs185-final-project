@@ -64,7 +64,7 @@ Prediction:
 Training:  
 1599.36 s | 0.3484  
 Testing:  
-114.93 s | 0.2964
+114.93 s | 0.2964  
 Prediction:  
 287.02 s | 0.0000
 #### 2/8
